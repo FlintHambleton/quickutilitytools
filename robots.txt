@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quickutilitytools.pages.dev/sitemap.xml
